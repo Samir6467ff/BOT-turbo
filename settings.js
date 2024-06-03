@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
+global.owner = ['201024480189'] //ur owner number
+global.ownername = "𝐵𝛩𝑺𝑺🐦‍🔥𝑻𝑼𝑹𝑩𝑶" //ur owner name
+global.ytname = "YT: 𝐵𝛩𝑺𝑺" //ur yt chanel name
+global.socialm = "GitHub: 𝐵𝛩𝑺𝑺" //ur github or insta name
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
+global.ownernomer = "201024480189" //ur number
+global.premium = ['201024480189'] //ur premium number
+global.botname = '𝐵𝛩𝑺𝑺🐦‍🔥𝑻𝑼𝑹𝑩𝑶' //ur bot name
+global.linkz = "https://youtube.com/@boss" //your theme url which will be displayed on whatsapp
+global.websitex = "https://telegra.ph/file/a9f44cb6ec9750b8de49d.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
-global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.themeemoji = "🐦‍🔥" //ur theme emoji
+global.packname = "⍣بوص المطرشم يروحي⍣" //ur sticker watermark packname
+global.author = "⍣01024480189⍣" //ur sticker watermark author
+global.wm = "🐦‍🔥𝑻𝑼𝑹𝑩𝑶 𝑩𝑶𝑻🐦‍🔥." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -40,7 +40,7 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'تم يروحي✨',
+    success: 'تم ي غالي✨',
     admin: '『 الامر دا لادمن بس! 』',
     botAdmin: '『 ارفع البوت ادمن الاول 』',
     premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار 』',
